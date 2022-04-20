@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/DemoBancoBogota/cdcd0484-1022-47c1-8dc8-faa53c152187/902da113-dcce-4956-ad99-fd5915a1c162/_apis/work/boardbadge/a372a731-0386-4781-8c79-5ae18e205fce)](https://dev.azure.com/DemoBancoBogota/cdcd0484-1022-47c1-8dc8-faa53c152187/_boards/board/t/902da113-dcce-4956-ad99-fd5915a1c162/Microsoft.RequirementCategory)
 # Azure Resource Manager QuickStart Templates
 
 This repo contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at [azure.com](https://azure.microsoft.com/en-us/documentation/templates/.)
